@@ -1,0 +1,4 @@
+class ProcesorNou{
+	public ProcesorNou(){
+	}
+}
