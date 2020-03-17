@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class ProcesorCautare implements Procesor {
     private String text;
-    private String text4;
+    private String smth;
 
     public ProcesorCautare(String text) {
         this.text = text;
